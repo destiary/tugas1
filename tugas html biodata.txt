@@ -1,0 +1,22 @@
+<!DOTYPE html>
+
+<html>
+
+<body>
+
+<h2>The select Eelemen</h2>
+
+<form>
+
+   <label for="fname">First name:</label><br>
+   <input type="text" name="fname" value="Nadin"><br>
+   <label for="fagama">First agama:</label><br>
+   <input type="text" agama="fagama" value="islam"><br>
+<form>
+
+<p>Note that the form itself is not visible.</p>
+
+<p>Also note that the default width of text input fields is 20 chat=racters.</p>
+
+</body>
+</html>
