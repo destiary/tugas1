@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(190, 222, 255);
+    width: 30%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+ 
+h2 {
+    font-size: 20px;
+}
+
+.contact {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.container {
+    background-color: rgb(155, 190, 222);
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 20px;
+    border-radius: 40px;
+}
+
+.profile img {
+    width: 100px;
+    border-radius: 50px;
+    width: 200px;
+    margin-left: 60px;
+}
+
+.info {
+    margin-left: 20px;
+    margin-right: 75px;
+    margin-top: 30px;
+}
+
+.info h3 {
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.saya {
+    background-color: rgb(155, 190, 222);
+    border: 40px;
+}
+
+.saya h3 {
+    text-align: center;
+}
